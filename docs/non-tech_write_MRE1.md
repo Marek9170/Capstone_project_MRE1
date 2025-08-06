@@ -39,8 +39,8 @@ Our optimization system achieved impressive results:
 - This is like reducing a household's electricity bill from £200 to £164 per month
 
 ### **Financial Impact:**
-- **£3,247 saved per server annually** (at UK electricity rates)
-- For a 50-server data center: **£162,350 total annual savings**
+- **£467 saved per server annually** (at UK electricity rates)
+- For a 50-server data center: **£23,350 total annual savings**
 - **Payback period:** 1.3 years (the system pays for itself quickly)
 
 ### **Environmental Benefits:**
@@ -114,7 +114,7 @@ We recommend a three-phase implementation:
 - **Temperature optimization:** Maintain 27-28°C ambient temperature
 
 ### **Business Metrics:**
-- **Cost savings:** £3,247 per server annually
+- **Cost savings:** £467 per server annually
 - **System uptime:** Maintain 99.9%+ availability
 - **Implementation success:** 78% of recommendations technically feasible
 
@@ -154,7 +154,7 @@ This project represents more than just cost savings - it's about leadership in s
 
 ## Conclusion: Smart Technology for a Sustainable Future
 
-Our Bayesian optimization system proves that advanced artificial intelligence can create significant value in the real world. By intelligently optimizing data center operations, we achieve:
+This Bayesian optimization system proves that advanced artificial intelligence can create significant value in the real world. By intelligently optimizing data center operations, we achieve:
 
 - **Economic benefits:** £162,350 annual savings
 - **Environmental impact:** 180 tonnes CO₂ reduction  

@@ -19,7 +19,7 @@ This synthetic dataset was created to support the development and testing of pow
 - Enabling development of cost optimization tools for data center operators
 
 **Who created the dataset and on behalf of which entity?**
-- **Creator:** Data science team working on data center optimization project
+- **Creator:** Mark Elliott - Data science team working on data center optimization project
 - **Entity:** Independent research project (Proof of Concept development)
 - **Funding:** Self-funded research initiative
 - **Contributors:** Individual researcher/developer focused on sustainable computing solutions

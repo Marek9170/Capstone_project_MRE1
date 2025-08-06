@@ -32,7 +32,7 @@ Our analysis uses a comprehensive synthetic dataset modeling Dell PowerEdge serv
 
 ## MODEL 
 
-We implemented a **Bayesian Optimization** framework with Gaussian Process surrogate models for multi-objective power optimization:
+I implemented a **Bayesian Optimization** framework with Gaussian Process surrogate models for multi-objective power optimization:
 
 **Architecture Overview:**
 - **Surrogate Models:** Dual Gaussian Processes for power consumption and efficiency prediction
@@ -105,7 +105,7 @@ Our Bayesian optimization achieved significant power savings while maintaining o
 
 ### **💰 Business Impact:**
 - **ROI Achievement:** 85% of optimizations achieve <2-year payback period
-- **Fleet-wide Potential:** £162,350 annual savings for 50-server data center
+- **Fleet-wide Potential:** £23,350 annual savings for 50-server data center
 - **Environmental Benefit:** ~180 tonnes CO₂ reduction annually per data center
 - **Implementation Success:** 78% of recommendations technically feasible
 
